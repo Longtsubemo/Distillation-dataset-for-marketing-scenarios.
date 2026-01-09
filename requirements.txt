@@ -1,0 +1,3 @@
+openai # type: ignore
+python-dotenv # type: ignore
+tqdm # type: ignore
