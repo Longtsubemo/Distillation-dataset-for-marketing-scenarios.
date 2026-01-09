@@ -2,7 +2,7 @@ import os
 from openai import OpenAI
 from dotenv import load_dotenv
 
-from prompt import SYSTEM_PROMPT, create_user_prompt
+from prompts import SYSTEM_PROMPT, create_user_prompt
 from scenarios import scenario_1
 
 load_dotenv()
